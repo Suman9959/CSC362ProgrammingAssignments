@@ -1,0 +1,13 @@
+Clemson 4 7 5 8 8 Wake_Forest 8 6 7 5
+Florida_St 5 7 8 8 7 Virginia_Tech 6 6 6 7
+Illinois 3 8 7 4 4 Nebraska 6 5 4 5
+Iowa_St 5 6 7 6 5 TCU 6 7 6 5
+Georgia 4 8 6 9 8 Kentucky 8 6 7 4
+Louisville 6 5 6 5 7 Notre_Dame 7 6 7 5
+Minnesota 5 5 6 6 7 Michigan 5 8 6 6
+Missouri 6 7 7 5 6 LSU 8 6 5 6
+Ohio_State 8 6 4 5 8 Maryland 8 5 7 3
+Oklahoma_St 7 7 6 5 5 Kansas_St 5 7 6 7
+Texas 8 4 6 7 7 Oklahoma 5 7 7 7
+USC 9 3 7 6 6 Arizona 4 6 5 6
+Wisconsin 5 7 6 5 7 Rutgers 5 7 6 5
