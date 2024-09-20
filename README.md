@@ -1,1 +1,1 @@
-# C ProgrammingAssignments This repo contains the programming assignment done by me to learn C.
+# C ProgrammingAssignments:  This repository contains the assignments I've completed as part of my journey to learn the C programming language.
